@@ -1,0 +1,10 @@
+conf1: 
+    start: 1
+    end: 10
+    step: 1
+    type: 'int'
+conf2:
+    start: 0.0
+    end: 10.0
+    step: 0.1
+    type: 'float'
